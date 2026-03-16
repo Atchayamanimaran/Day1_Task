@@ -1,0 +1,276 @@
+BLOCK 1 – APTITUDE (Percentages)
+
+Question 1
+A number increased by 20% becomes 120.
+Find the original number.
+
+Ans:
+    let the original number be x
+     
+    increaases= 20 % of x
+ 
+    percentage into fraction = 20/100 of x
+                             
+                             = 1/5 0f x
+     
+                             = 1/5 * x
+
+    Framing the equation  = original number +increase= new number
+                
+                          x+1/5x = 120
+ 
+                          5x+1x/5= 120
+
+                          6x/5=120
+                          
+                          6x=120 * 5
+ 
+                          6x= 600
+ 
+                          x=600/6
+
+                          x=100.
+
+The Original number is 100.
+
+
+
+Question 2
+If the price of a laptop increases from ₹50,000 to ₹60,000,
+what is the percentage increase?
+   
+    Answer:
+         
+    find the amount increase = 60,000-50,000
+        
+                             = 10,000
+
+     formula= increase/original price * 100
+
+                              =10000/50000 *100
+
+                              =1/5*100
+
+                              =20%
+
+Question 3
+A student scored 72 out of 90 in an exam.
+Find the percentage score.
+
+     Answer:
+     
+           formula = score/totalmark *100
+ 
+                   = 72/90 *100
+
+            divide by 18= 4/5*100
+                     = 4 *20
+
+                     = 80%
+        
+       
+
+Question 4
+The population of a town increases from 50,000 to 60,000.
+Find the percentage increase.
+
+Answer:
+
+                    increase = 60,000-50,000
+        
+                             = 10,000
+
+     formula= increase/original price * 100
+
+                              =10000/50000 *100
+
+                              =1/5*100
+
+                     spercentage=20%
+
+
+Question 5
+A shirt originally costs ₹800.
+After a 25% discount, what is the final price?
+
+
+Answer:
+
+      discount cost=25% of 800
+
+                   = 25/100 *800
+
+     Discount cost = 200
+
+sub the discount cost from original cost
+
+                   = 800 - 200
+
+      final price  = 600
+
+===========================================
+BLOCK 2 – VERBAL ABILITY 
+
+Questions
+
+1. What is the main idea of the passage?
+    Answer:
+      The passage says about the technology is transforming and the technology are reshaping 
+      the way and the business  are depend on data driven.
+
+
+2. Which technologies are mentioned in the passage?
+    Answer:
+      Artificial Intelligence (AI),Machine Learning, Automation are the technologies        
+      mentioned in the passage.
+
+
+3. Why are companies relying on data-driven decisions?
+     Answer:
+        Companies rely on them because these technologies are reshaping the way they
+        operate.       
+
+
+Grammar Correction
+
+1. She don't understand the problem.
+
+   Answer: She doesn't understand the problem. because she is the third person singular.
+
+2. He have completed the task.
+    
+   Answer: He has completed the task. because he is third person singular.
+  
+3. They was going to the meeting.
+    
+   Answer : They were going to the meeting. because they  is plural .
+
+
+
+
+===========================================
+BLOCK 3 – COMMUNICATION PRACTICE
+ 
+Introduce Yourself
+
+I am Atchaya from Thammampatti pursing B.Tech Information technology at Muthayammal Engineering College. I have a basic knowledge in C , Java, HTML, CSS, and JavaScript and I'm interested to develop the web application.And I have currently developing a project named Online rental System and I have worked in a group project named Canteen pre Order System in that i worked in frontend. My short time goal is to become a full stack developer and My long time goal is to be placed in a good company. 
+
+
+===========================================
+BLOCK 4 – PROBLEM SOLVING
+
+Find the missing number in the array
+
+[1,2,3,4,6,7,8]
+
+Expected Output
+5
+
+Hint
+
+Use the formula:
+
+Sum = n*(n+1)/2
+
+Answer:
+
+import java.util.Scanner;
+public class Main{
+    public static void main(String [] args){
+        Scanner sc=new Scanner(System.in);
+        int n=sc.nextInt(); // Read the n value
+        int arr [] =new int[n-1]; //create array with size n-1 
+        for(int i=0;i< n-1;i++){ //read array elements
+            arr[i]=sc.nextInt();
+        }
+        int sum= n*(n+1)/2; //calculate total sum 
+        int arrsum=0; //initialize arraysum
+        for(int i=0;i< n-1;i++){ //add arrayelement
+            arrsum=arrsum+arr[i];
+        }
+        int mis=sum-arrsum;//find the missing num 
+        System.out.println("Missing number: "+ mis); //print the missing number
+    }
+}
+
+
+===========================================
+BLOCK 5 – DATA STRUCTURES & ALGORITHMS
+
+Topic: Arrays
+
+Problem 1 – Two Sum
+
+Given an array of integers and a target value,
+return the indices of two numbers whose sum equals the target.
+
+Example
+
+nums = [2,7,11,15]
+target = 9
+
+Output
+[0,1]
+    
+
+Answer:
+import java.util.*;
+public class Main{
+    public static void main(String[] args){
+        Scanner sc=new Scanner(System.in);
+        int n=sc.nextInt();
+        int []arr=new int[n];//create array
+        for(int i=0;i<n;i++){
+            arr[i]=sc.nextInt();//store elements in array
+        }
+        int target=sc.nextInt();//read target value
+        for(int i=0;i<n;i++){ //first loop
+            for(int j=i+1;j<n;j++){ //second loop
+                if(arr[i]+arr[j]==target){ //checks sum equal 
+                    System.out.println(i+" "+j); // print index
+                    return;
+                }
+            }
+        }
+    }
+}
+
+
+
+Problem 2 
+
+
+Find the maximum element in the array
+
+[3,8,1,10,4]
+
+Output: 
+ 
+10
+
+Answer:
+
+import java.util.Scanner;
+public class Main{
+    public static void main(String [] args){
+        Scanner sc=new Scanner(System.in);
+        int n=sc.nextInt();
+        int arr[] = new int[n];//create the array size
+        for(int i=0;i<n;i++){//read array element
+            arr[i]=sc.nextInt();
+        }
+        int max=0;
+        for(int i=1 ; i <n;i++){//compare elements
+            if(arr[i] > max){ 
+                max=arr[i]; //update max value
+            }
+        }
+        System.out.println("Maximum element is: "+max);// print max
+    }
+}
+
+     
+
+
+
+  
