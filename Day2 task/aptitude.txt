@@ -1,0 +1,130 @@
+BLOCK 1 – APTITUDE (Profit & Loss)
+
+Question 1
+A shopkeeper buys a book for ₹400 and sells it for ₹480.
+Find the profit percentage.  
+ Answer:
+       
+       Cp= 400
+       sp=480
+       profit=?
+       profit=sp-Cp
+       pr=480-400
+       pr=80
+       profit %= profit/cp *100
+               = 80/400 *100
+       profit %= 20% 
+
+Question 2
+A man buys a watch for ₹1500 and sells it for ₹1200.
+Find the loss percentage.
+  Answer:
+       
+       Cp = 1500
+       sp= 1200
+       loss= ?
+       loss = cp-sp
+            = 1500 - 1200
+            =300
+       loss % = loss/cp *100
+            = 300/1500 *100
+       loss % =20%
+
+
+Question 3
+A trader marks a product 20% above the cost price and gives a 10% discount.
+Find the final profit percentage.
+ Answer:
+       
+       cp=100
+       Mp 20% above of cp
+        = 100+20
+        =120 
+       discount=10%
+       d=10% of Mp
+        =Mp - d% of 120
+        =120 -10 % of 120
+        =120-12
+       sp=108
+
+       profit=sp-cp
+            =108 - 100
+            = 8
+
+       profit%= p/cp *100
+              = 8/100 *100
+        profit%= 8
+
+
+Question 4
+If the cost price of 5 pens is ₹100, what is the selling price of each pen to make 25% profit?
+  Answer:
+     
+        cp of 5 pens=100
+        sp of 1 pen =25%
+        cp of 1 pen =100/5
+                    =20
+        add 25% profit
+           profit=25% of 20
+                 =25/100 *20
+           profit=5
+        sp=cp+profit
+          =20+5
+        sp=25
+
+Question 5
+A product is sold for ₹900 with a 10% loss.
+Find the cost price.
+   Answer:
+       
+         sp=900
+         loss=10%
+         sp= 90% of cp
+         find cp =?
+         sp= 90% of cp
+         900= 90/100 of cp
+         900=0.9 of cp
+         cp = 900/0.9
+         cp=1000
+===========================================
+BLOCK 2 – VERBAL ABILITY
+
+Questions
+
+1. What technologies are influencing software development?
+   Answer:
+       cloud computing and artificial intelligence are the technologies influencing software development.
+
+2. Why are scalable systems important?
+   Answer:
+       Because, they can handle millions of users simultaneously.
+
+3. What does "scalable" mean in software systems?
+   Answer:
+       Scalable means a system can handle more users or work easily without problems.
+Grammar Correction
+
+1. He don't like programming.
+   Ans :
+     He doesn't like programming. //he is singular so doesn't.
+
+2. She have submitted the assignment.
+   Ans:
+     She has submitted the assignment. //she is singular so has
+
+3. They was discussing the project.
+   Ans:
+      They were discussing the project. // they plural so were
+
+===========================================
+BLOCK 3 – COMMUNICATION PRACTICE 
+
+My final year project title is “Canteen Pre-Order System”.The main problem we wanted to solve is that students and faculty are usually stand in long queues in the canteen, which wastes time, especially during breaks to buy their snacks and foods.
+So, we developed an website where users can pre-order their food ,snacks and pick it up without waiting.
+For this project, we used MongoDB, Express.js, React, and Node.js (MERN stack) and Jwt Authentication. We also included features like user login, menu display, order placement, and order tracking.
+My role in the project was as a frontend developer. I worked on both frontend. I created the UI using React and handled database.
+One of the main challenges we faced was handling real-time order updates and managing multiple users at the same time. Initially, there were some issues with data syncing and payment, but we fixed them through testing and debugging.
+Overall, this project improved my technical skills and teamwork experience. 
+
+
+
