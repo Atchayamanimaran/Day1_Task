@@ -1,0 +1,8 @@
+
+BLOCK 3 – COMMUNICATION PRACTICE
+
+
+DBMS means Database Management System. It is used to store and manage data in a simple and organized way. It helps us to save data and get it back easily when needed.
+For example, in a school, student details like name, marks, and roll number are stored in a database. Instead of writing in books, we can store everything in a computer using DBMS.
+DBMS is used in many real-life places like banks, hospitals, and shopping apps. It helps to store customer details, transactions, and product information safely.
+Overall, DBMS is important because it keeps data safe, organized, and easy to use.
