@@ -1,0 +1,61 @@
+BLOCK 1 – APTITUDE (Speed, Time & Distance)
+
+
+Question 1
+A train travels 60 km in 1 hour. What is its speed in m/s?
+      
+      Speed = 60 km/h
+      covert km/hr= 5/18m/seconds
+      60*5/18
+      =300/18
+      =16.67 m/s
+
+Question 2
+A car travels at 40 km/h for 2 hours and 60 km/h for next 2 hours.
+Find average speed.
+     
+     40 km/h for 2 hrs → Dis = 40 × 2 = 80 km
+     60 km/h for 2 hrs → Dis = 60 × 2 = 120 km
+
+      distance = 80 + 120 = 200 km
+        time = 2 + 2 = 4 hrs
+
+        Average Speed =200 /4 
+                    = 50 km/h
+
+
+Question 3
+Two trains moving in opposite directions at 50 km/h and 70 km/h.
+Find relative speed.
+                       =50+70
+                       =120 km/h
+Question 4
+A person walks at 5 km/h and runs at 10 km/h.
+Find time taken to cover 15 km if half distance is walked and half is run.
+                    
+                    Total distance = 15 km
+
+                    walked = 7.5 km
+                    run = 7.5 km
+
+                 Time = Distance / Speed
+
+                Walking time = 7.5 / 5 
+                             = 1.5 hrs
+                Running time = 7.5 / 10 
+                            = 0.75 hrs
+                Total=1.5+0.75
+                     =2.25 hrs
+Question 5
+If a train crosses a pole in 10 seconds and its length is 100 meters,
+find its speed. 
+     
+             Length = 100 m
+             Time = 10 sec
+             Speed=d/t
+                  =100/10 
+                  =10 m/sec
+
+        km/hr:
+            10 * 18/5
+            =36 km/h
