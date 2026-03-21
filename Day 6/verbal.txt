@@ -1,0 +1,44 @@
+BLOCK 2 – VERBAL ABILITY (Advanced)
+
+
+
+Questions
+
+1. Why are databases important in modern applications?
+
+     Databases help in efficient storage, retrieval, and management of data.
+
+2. What does data consistency mean?
+
+      “Data consistency” means data remains correct and uniform.
+
+3. Why do companies need well-designed databases?
+
+      To ensure data consistency and performance.
+      
+
+Grammar Correction
+
+1. She do not understand SQL joins.
+
+    She does not understand SQL joins.
+
+2. He were explaining the database schema.
+
+     He was explaining the database schema.
+
+3. They has written the program successfully.
+
+    They have written the program successfully.
+
+
+
+BLOCK 3 – COMMUNICATION PRACTICE
+
+One challenge I faced while learning coding was implementation.
+I was able to understand the logic of the problem, but I did not know how to write the code for it. 
+I got stuck while converting my idea into a program. This made me feel confused and slow.
+To overcome this, I started practicing regularly. I solved simple problems and focused on writing code step by step.
+I also checked solutions and understood how others implemented the same logic. Slowly, I improved my coding skills.
+From this, I learned that understanding logic is not enough, we must practice coding daily to improve implementation.
+
